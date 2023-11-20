@@ -52,7 +52,7 @@ print(f"Flood Prediction: {prediction}")
 
 ## Data Format
 
-DISTRA expects input data in the form of a time series array, where each element corresponds to the amount of rainfall at a specific time. Ensure that the data is properly preprocessed and normalized before feeding it to the model.
+DISTRA expects input data in the form of a csv, where each element corresponds to the amount of rainfall at a specific time. Ensure that the data is properly preprocessed and normalized before feeding it to the model.
 
 ## Model Training
 
